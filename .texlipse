@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sun Jul 08 02:32:06 EST 2012
+markTmpDer=true
+builderNum=2
+outputDir=out
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=main.tex
+outputFile=2012-07-06 Roadmap Meeting.pdf
+langSpell=en
+markDer=true
+srcDir=src
